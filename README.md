@@ -28,3 +28,5 @@ The rest of the players only chose one candidate card and must declare to the ot
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/. 
 All characters appearing in this work are fictitious. Any resemblance to real persons, living or dead, is purely coincidental. Opinions expressed by players playing this game are solely of their own and do not express the views or opinions of anyone else.
+
+If you liked this game, please check out my other designs at http://www.scripturedyou.com
