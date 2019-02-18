@@ -4,6 +4,9 @@
 Political Story Telling Game. Free Print-to-Play. Designed by Ronald Villaver. CC Attribution-NonCommercial (CC BY-NC)
 Sure about your bets this coming election? What makes your candidates stand above the rest? Use showmanship, quick wits and satirical selling skills to convince the voting public that your team just might, have what it takes to solve our nation’s issues.
 
+## DISCLAIMER:
+This is a work of fiction. Names, characters, businesses, places, events, locales, and incidents are either the products of the designer’s imagination or used in a fictitious manner. Any resemblance to actual persons, living or dead, or actual events is purely coincidental.
+
 ## Setup:
 Shuffle the Political Issues and Candidate Cards into their respective piles. Give each player a starting hand of three Candidate cards. First player goes to whoever recently tried to weasel their way out of a violation and got away with it.
 
